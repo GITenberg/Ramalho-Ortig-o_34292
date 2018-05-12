@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36942'
     url: http://www.gutenberg.org/2009/agents/36942
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34292#Ramalho-Ortig-o
 gutenberg_bookshelf: PT Biografia
 gutenberg_issued: '2010-11-12'
 gutenberg_type: Text
